@@ -23,10 +23,7 @@ My research mainly focuses on object detection, open-vocabulary detection, and s
 <a href='https://scholar.google.com/citations?user=VBmXYq4AAAAJ'>
 Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>. 
 
-You can also view my Google Scholar badge here: 
-<a href='https://scholar.google.com/citations?user=VBmXYq4AAAAJ'>
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations">
-</a>
+
 
 
 
