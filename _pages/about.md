@@ -19,7 +19,14 @@ redirect_from:
 
 I am currently a PhD student working on computer vision and object detection. I am a PhD student at Chang'an University, currently visiting the National University of Singapore (NUS) for research collaboration.
 
-My research mainly focuses on object detection, open-vocabulary detection, and spiking neural networks (SNNs). I am also interested in brain-inspired visual perception and edge-intelligence applications. I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=VBmXYq4AAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research mainly focuses on object detection, open-vocabulary detection, and spiking neural networks (SNNs). I am also interested in brain-inspired visual perception and edge-intelligence applications. I have published more than 10 papers at top international AI conferences with total 
+<a href='https://scholar.google.com/citations?user=VBmXYq4AAAAJ'>
+google scholar citations <strong><span id='total_cit'>300+</span></strong></a> 
+(You can also use Google Scholar badge 
+<a href='https://scholar.google.com/citations?user=VBmXYq4AAAAJ'>
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>).
+
 
 
 # 🔥 News
