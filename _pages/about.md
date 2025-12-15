@@ -29,8 +29,8 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 I joined Robby Tan's CV lab at the National University of Singapore (NUS) as a visiting PhD student. . 
+- *2025.06*: &nbsp;🎉🎉 One papers are accepted by CVPR 2025. 
 
 # 📝 Publications 
 
