@@ -48,7 +48,7 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 -->
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AAAI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration](https://ojs.aaai.org/index.php/AAAI/article/download/32898/35053)
