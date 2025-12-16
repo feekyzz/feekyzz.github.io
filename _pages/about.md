@@ -39,6 +39,49 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">CVPR 2016</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.pdf)
+
+    **Ziqi Li**, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang
+
+    <!--
+    [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    -->
+    
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2025</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.pdf)
+
+    **Ziqi Li**, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang
+
+    <!--
+    [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    -->
+    
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">CVPR 2025</div>
       <img src='images/cvpr2025.jpg' alt="sym" width="100%">
     </div>
