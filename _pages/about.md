@@ -33,6 +33,7 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 - *2025.09*: &nbsp;🎉🎉 One paper selected as an ESI Highly Cited Paper.
 - *2025.06*: &nbsp;🎉🎉 One papers are accepted by CVPR 2025.
 - *2023.12*: &nbsp;🎉🎉 One papers are accepted by TGRS.
+
 # 📝 Publications 
 
 <div class='paper-box'>
