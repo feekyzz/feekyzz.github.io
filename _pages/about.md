@@ -124,6 +124,7 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 - *2022.11* National Scholarship
 
 # 📖 Educations
+- *2025.11 – 2026.11*, National University of Singapore, Visiting PhD.
 - *2023.09 – Present*, Chang’an University, Ph.D.
 - *2021.09 – 2023.07*, Chang’an University, M.Sc.
 - *2015.09 – 2019.07*, Xi’an University of Technology, B.Sc.
