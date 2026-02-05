@@ -67,11 +67,11 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
     </p>
     -->
 
-    <ul>
-      <li>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-      </li>
-    </ul>
+<ul>
+  <li><strong>Multi-scale Spiking Detector (MSD)</strong></li>
+  <li><strong>Spiking Convolutional Neuron with the Optic Nerve Nucleus Block (ONNB)</strong></li>
+  <li><strong>Multi-scale spike-based detection framework</strong></li>
+</ul>
   </div>
 </div>
 
