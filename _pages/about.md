@@ -124,7 +124,7 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 
 - [Multi-perspective Prompt and Assimilated Self-modulation Transformer for Adverse Weather Removal], Yuanbo Wen, Tao Gao, **Ziqi Li**, Shan Liang, Zixiang Liu, Jing Qin, Ting Chen, **ESWA 2025**
 
-- [Cross-level Interaction and Intra-level Fusion Network for Remote Sensing Image Dehazing], Yuanbo Wen, Tao Gao, Ting Chen, **Ziqi Li**, Mengkun Liu, Lidong Liu, **TGRS 2025***ESI Highly Cited Paper*
+- [Cross-level Interaction and Intra-level Fusion Network for Remote Sensing Image Dehazing], Yuanbo Wen, Tao Gao, Ting Chen, **Ziqi Li**, Mengkun Liu, Lidong Liu, **TGRS 2025**, *ESI Highly Cited Paper*
 
 - [Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration], Yuanbo Wen, Tao Gao, Jing Zhang, **Ziqi Li**, Ting Chen, **AAAI 2025**
 
@@ -140,9 +140,9 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 
 - [A Self-supplementary and Revised Network for Remote Sensing Object Detection], Tao Gao, Zixiang Liu, Guiping Wu, **Ziqi Li**, Yuanbo Wen, Lidong Liu, Ting Chen, Jing Zhang, **GRSL 2023**
 
-- [Attention-free Global Multiscale Fusion Network for Remote Sensing Object Detection], Tao Gao, **Ziqi Li**, Yuanbo Wen, Ting Chen, Qianqian Niu, Zixiang Liu, **TGRS 2025***ESI Highly Cited Paper*
+- [Attention-free Global Multiscale Fusion Network for Remote Sensing Object Detection], Tao Gao, **Ziqi Li**, Yuanbo Wen, Ting Chen, Qianqian Niu, Zixiang Liu, **TGRS 2025**, *ESI Highly Cited Paper*
 
-- [Encoder-free Multiaxis Physics-aware Fusion Network for Remote Sensing Image Dehazing], Yuanbo Wen, Tao Gao, Jing Zhang, **Ziqi Li**, Ting Chen, **TGRS 2023***ESI Highly Cited Paper*
+- [Encoder-free Multiaxis Physics-aware Fusion Network for Remote Sensing Image Dehazing], Yuanbo Wen, Tao Gao, Jing Zhang, **Ziqi Li**, Ting Chen, **TGRS 2023**, *ESI Highly Cited Paper*
 
 - [基于无损跨尺度特征融合的交通目标检测算法], 王潇, **李子琦**, 高涛, **中国公路学报 2023**
 
