@@ -33,7 +33,7 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 - *2025.09*: &nbsp;🎉🎉 One paper selected as an ESI Highly Cited Paper.
 - *2025.06*: &nbsp;🎉🎉 One papers are accepted by CVPR 2025.
 - *2023.12*: &nbsp;🎉🎉 One papers are accepted by TGRS.
-
+- *2021.09*: &nbsp;🎉🎉 Master–PhD track at Chang’an University, advised by Tao Gao.
 # 📝 Publications 
 
 
@@ -118,16 +118,21 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 - [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection],   **Ziqi Li**, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang, **CVPR 2025**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07* China Scholarship Council (CSC)–Sponsored Visiting Program
+- *2024.11* National Scholarship
+- *2023.12* Outstanding Doctoral Dissertation Cultivation Program (Central Universities)
+- *2022.11* National Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.09 – Present*, Chang’an University, Ph.D.
+- *2021.09 – 2023.07*, Chang’an University, M.Sc.
+- *2015.09 – 2019.07*, Xi’an University of Technology, B.Sc.
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  | [\[video\]](https://github.com/)
+-->
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
