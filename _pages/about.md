@@ -116,7 +116,7 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 
 
 
-- [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection], **Ziqi Li**, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang, **CVPR 2025**
+- [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection](https://github.com), **Ziqi Li**, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang, **CVPR 2025**
 
 - [Prior-oriented Specific and Triple-view General Prompts for Multi-weather Degraded Image Restoration], Yuanbo Wen, Tao Gao, Shan Liang, **Ziqi Li**, Ting Chen, **ESWA 2025**
 
