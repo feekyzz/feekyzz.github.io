@@ -116,7 +116,36 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 
 
 
-- [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection],   **Ziqi Li**, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang, **CVPR 2025**
+- [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection], **Ziqi Li**, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang, **CVPR 2025**
+
+- [Prior-oriented Specific and Triple-view General Prompts for Multi-weather Degraded Image Restoration], Yuanbo Wen, Tao Gao, Shan Liang, **Ziqi Li**, Ting Chen, **ESWA 2025**
+
+- [Unpaired Iterative Prompt Learning for Real-world Image Deraining], Yuanbo Wen, Tao Gao, Shan Liang, **Ziqi Li**, Ting Chen, **ESWA 2025**
+
+- [Multi-perspective Prompt and Assimilated Self-modulation Transformer for Adverse Weather Removal], Yuanbo Wen, Tao Gao, **Ziqi Li**, Shan Liang, Zixiang Liu, Jing Qin, Ting Chen, **ESWA 2025**
+
+- [Cross-level Interaction and Intra-level Fusion Network for Remote Sensing Image Dehazing], Yuanbo Wen, Tao Gao, Ting Chen, **Ziqi Li**, Mengkun Liu, Lidong Liu, **TGRS 2025***ESI Highly Cited Paper*
+
+- [Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration], Yuanbo Wen, Tao Gao, Jing Zhang, **Ziqi Li**, Ting Chen, **AAAI 2025**
+
+- [MSNet: Multi-scale Network for Object Detection in Remote Sensing Images], Tao Gao, Shilin Xia, Mengkun Liu, Jing Zhang, Ting Chen, **Ziqi Li**, **PR 2025**
+
+- [All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model], Yuanbo Wen, Tao Gao, **Ziqi Li**, Jing Zhang, Kaihao Zhang, Ting Chen, **TMM 2025**
+
+- [A Decision-making Approach for Complex Unsignalized Intersection by Deep Reinforcement Learning], Shanke Li, Kun Peng, Fei Hui, **Ziqi Li**, Cheng Wei, Wenbo Wang, **TVT 2024**
+
+- [Multi-dimension Queried and Interacting Network for Stereo Image Deraining], Yuanbo Wen, Tao Gao, **Ziqi Li**, Jing Zhang, Ting Chen, **ICASSP 2024**
+
+- [Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing], Yuanbo Wen, Tao Gao, **Ziqi Li**, Jing Zhang, Ting Chen, **ICASSP 2024**
+
+- [A Self-supplementary and Revised Network for Remote Sensing Object Detection], Tao Gao, Zixiang Liu, Guiping Wu, **Ziqi Li**, Yuanbo Wen, Lidong Liu, Ting Chen, Jing Zhang, **GRSL 2023**
+
+- [Attention-free Global Multiscale Fusion Network for Remote Sensing Object Detection], Tao Gao, **Ziqi Li**, Yuanbo Wen, Ting Chen, Qianqian Niu, Zixiang Liu, **TGRS 2025***ESI Highly Cited Paper*
+
+- [Encoder-free Multiaxis Physics-aware Fusion Network for Remote Sensing Image Dehazing], Yuanbo Wen, Tao Gao, Jing Zhang, **Ziqi Li**, Ting Chen, **TGRS 2023***ESI Highly Cited Paper*
+
+- [基于无损跨尺度特征融合的交通目标检测算法], 王潇, **李子琦**, 高涛, **中国公路学报 2023**
+
 
 # 🎖 Honors and Awards
 - *2025.07* China Scholarship Council (CSC)–Sponsored Visiting Program
@@ -125,8 +154,9 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
 - *2022.11* National Scholarship
 
 # 📖 Educations
-- *2025.11 – 2026.11*, National University of Singapore, Visiting PhD.
+
 - *2023.09 – Present*, Chang’an University, Ph.D.
+- *2025.11 – 2026.11*, National University of Singapore, Visiting PhD.
 - *2021.09 – 2023.07*, Chang’an University, M.Sc.
 - *2015.09 – 2019.07*, Xi’an University of Technology, B.Sc.
 
