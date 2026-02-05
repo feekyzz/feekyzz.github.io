@@ -21,7 +21,7 @@ I am currently a PhD student working on computer vision and object detection. I 
 
 My research mainly focuses on object detection, open-vocabulary detection, and spiking neural networks (SNNs). I am also interested in brain-inspired visual perception and edge-intelligence applications. I have published more than 10 papers at top international AI conferences, with a total of 
 <a href='https://scholar.google.com/citations?user=VBmXYq4AAAAJ'>
-Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>. 
+Google Scholar citations <strong><span id='total_cit'>400+</span></strong></a>. 
 
 
 
