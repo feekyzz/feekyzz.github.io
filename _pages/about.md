@@ -116,7 +116,7 @@ Google Scholar citations <strong><span id='total_cit'>400+</span></strong></a>.
 
 
 
-
+- [Structure-Preserving Frequency-Regularized Text-Guided Optimal Transport for Unpaired Rain Streaks and Raindrops Removal](https://ieeexplore.ieee.org/abstract/document/11340759), YYuanbo Wen, Tao Gao, **Ziqi Li**, Qianxi Zhang, Jing Zhang, Ting Chen, Lidong Liu, **TMM 2026**
 
 - [Prior-oriented Specific and Triple-view General Prompts for Multi-weather Degraded Image Restoration](https://www.sciencedirect.com/science/article/abs/pii/S0957417425046561), Yuanbo Wen, Tao Gao, Shan Liang, **Ziqi Li**, Ting Chen, **ESWA 2025**
 
