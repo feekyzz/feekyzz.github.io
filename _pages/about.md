@@ -103,11 +103,12 @@ Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
     </p>
     -->
 
-    <ul>
-      <li>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-      </li>
-    </ul>
+<ul>
+  <li><strong>Multi-axis Prompts Learning Block</strong>: Learn more accurate all-in-one task-related representations.</li>
+  <li><strong>Multi-dimension Feature Interaction Block</strong>: Effectively acquire adaptive mutual attention and discern the significance of distinct features.</li>
+  <li><strong>Implicit Neural Representations Across Adjacent Branches</strong>: Facilitate precise fine-scale reconstruction and enhance robustness against complex degradations.</li>
+</ul>
+
   </div>
 </div>
 
