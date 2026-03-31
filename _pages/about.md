@@ -162,6 +162,6 @@ Google Scholar citations <strong><span id='total_cit'>400+</span></strong></a>.
 - *2023.09 – Present*, Chang’an University, Ph.D.
 - *2025.11 – 2026.11*, National University of Singapore, Visiting PhD.
 - *2021.09 – 2023.07*, Chang’an University, M.Sc.
-- *2015.09 – 2019.07*, Xi’an University of Technology, B.Sc.
+- *2015.09 – 2019.07*, Xi’an Technological University, B.Sc.
 
 
