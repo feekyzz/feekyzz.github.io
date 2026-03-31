@@ -29,7 +29,7 @@ Google Scholar citations <strong><span id='total_cit'>400+</span></strong></a>.
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 I joined Robby Tan's CV lab at the National University of Singapore (NUS) as a visiting PhD student for 1 year.
+- *2025.11*: &nbsp;🎉🎉 I joined Robby Tan's lab at the National University of Singapore (NUS) as a visiting PhD student for 1 year.
 - *2025.09*: &nbsp;🎉🎉 One paper selected as an ESI Highly Cited Paper.
 - *2025.06*: &nbsp;🎉🎉 One papers are accepted by CVPR 2025.
 - *2023.12*: &nbsp;🎉🎉 One papers are accepted by TGRS.
