@@ -21,7 +21,7 @@ I am currently a PhD student working on computer vision and object detection. I 
 
 My research mainly focuses on object detection, open-vocabulary detection, and spiking neural networks (SNNs). I am also interested in brain-inspired visual perception and edge-intelligence applications. I have published more than 10 papers at top international AI conferences, with a total of 
 <a href='https://scholar.google.com/citations?user=VBmXYq4AAAAJ'>
-Google Scholar citations <strong><span id='total_cit'>400+</span></strong></a>. 
+Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>. 
 
 
 
@@ -29,10 +29,11 @@ Google Scholar citations <strong><span id='total_cit'>400+</span></strong></a>.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper are accepted by Nature Communication.
 - *2025.11*: &nbsp;🎉🎉 I joined Robby Tan's lab at the National University of Singapore (NUS) as a visiting PhD student for 1 year.
 - *2025.09*: &nbsp;🎉🎉 One paper selected as an ESI Highly Cited Paper.
-- *2025.06*: &nbsp;🎉🎉 One papers are accepted by CVPR 2025.
-- *2023.12*: &nbsp;🎉🎉 One papers are accepted by TGRS.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by TGRS.
 - *2021.09*: &nbsp;🎉🎉 Master–PhD track at Chang’an University, advised by Tao Gao.
 # 📝 Publications 
 
