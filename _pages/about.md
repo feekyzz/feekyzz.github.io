@@ -29,7 +29,7 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper are accepted by Nature Communication.
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by Nature Communications.
 - *2025.11*: &nbsp;🎉🎉 I joined Robby Tan's lab at the National University of Singapore (NUS) as a visiting PhD student for 1 year.
 - *2025.09*: &nbsp;🎉🎉 One paper selected as an ESI Highly Cited Paper.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
