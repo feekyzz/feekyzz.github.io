@@ -190,11 +190,11 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 
 # 🎖 Honors and Awards
-- *2026.11* 2026 Clarivate Highly Cited Researcher
-- *2025.07* China Scholarship Council (CSC)–Sponsored Visiting Program
-- *2024.11* National Scholarship
-- *2023.12* Outstanding Doctoral Dissertation Cultivation Program (Central Universities)
-- *2022.11* National Scholarship
+- *2026.11*   Clarivate Highly Cited Researcher
+- *2025.07*   China Scholarship Council (CSC)–Sponsored Visiting Program
+- *2024.11*   National Scholarship
+- *2023.12*   Outstanding Doctoral Dissertation Cultivation Program (Central Universities)
+- *2022.11*   National Scholarship
 
 # 📖 Educations
 
