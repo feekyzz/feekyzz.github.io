@@ -39,6 +39,43 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Nature Communication 2026</div>
+      <img src="/images/nc2026.jpg" alt="Nature Communication 2026" width="100%">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <p>
+      <a href="[https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.pdf](https://feekyzz.github.io/Frequency-oriented-Adaptive-Real-Time-Object-Detector-for-Cluttered-Traffic-Scenes/)" target="_blank">
+        Frequency-oriented Adaptive Real-Time Object Detector for Cluttered Traffic Scenes
+      </a>
+    </p>
+
+    <p>
+      <strong>Ziqi Li</strong>, Tao Gao, Shutao Li, Ting Chen, Yisheng An, Yuanbo Wen, Tao Lei
+    </p>
+
+    <!-- Project link hidden on purpose -->
+    <!--
+    <p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
+        Project
+      </a>
+    </p>
+    -->
+
+<ul>
+  <li><strong>Frequency-Oriented Adaptive Detector</strong></li>
+  <li><strong>Frequency Dynamic Convolution and Adaptive Fusion</strong></li>
+  <li><strong>Lightweight and High-Performance Design</strong></li>
+</ul>
+  </div>
+</div>
+
+
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -153,6 +190,7 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 
 # 🎖 Honors and Awards
+- *2026.11* 2026 Clarivate Highly Cited Researcher
 - *2025.07* China Scholarship Council (CSC)–Sponsored Visiting Program
 - *2024.11* National Scholarship
 - *2023.12* Outstanding Doctoral Dissertation Cultivation Program (Central Universities)
