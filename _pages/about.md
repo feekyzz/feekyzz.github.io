@@ -49,7 +49,7 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
   <div class="paper-box-text">
     <p>
-      <a href="[https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.pdf](https://feekyzz.github.io/Frequency-oriented-Adaptive-Real-Time-Object-Detector-for-Cluttered-Traffic-Scenes/)" target="_blank">
+      <a href="https://feekyzz.github.io/Frequency-oriented-Adaptive-Real-Time-Object-Detector-for-Cluttered-Traffic-Scenes/" target="_blank">
         Frequency-oriented Adaptive Real-Time Object Detector for Cluttered Traffic Scenes
       </a>
     </p>
