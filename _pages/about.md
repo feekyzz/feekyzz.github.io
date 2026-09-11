@@ -43,7 +43,7 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
   <div class="paper-box-image">
     <div>
       <div class="badge">Nature Communication 2026</div>
-      <img src="/images/nc2026.jpg" alt="Nature Communication 2026" width="100%">
+      <img src="/images/nc2026.png" alt="Nature Communication 2026" width="100%">
     </div>
   </div>
 
