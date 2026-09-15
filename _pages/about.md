@@ -163,7 +163,7 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 - [Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration](https://ojs.aaai.org/index.php/AAAI/article/view/32898), Yuanbo Wen, Tao Gao, Jing Zhang, **Ziqi Li**, *et al.*, **AAAI 2025**
 
 
-- [All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model](https://ieeexplore.ieee.org/abstract/document/10855564), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **TMM 2025**, *ESI Highly Cited Paper*
+- [All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model](https://ieeexplore.ieee.org/abstract/document/10855564), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **TMM 2025**, *ESI Hot Paper*,*ESI Highly Cited Paper*
 
 - [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html), **Ziqi Li**, Tao Gao, *et al.*, **CVPR 2025**
 
