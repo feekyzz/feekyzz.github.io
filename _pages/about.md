@@ -150,26 +150,22 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
   </div>
 </div>
 
+- [Frequency-oriented Adaptive Real-Time Object Detector for Cluttered Traffic Scenes](https://www.nature.com/articles/s41467-026-76346-1), **Ziqi Li**,  Tao Gao, Shutao Li,*et al.*, **Nature Communication 2026**
+
+- [When Optimal Transport Meets Photo-Realistic Image Dehazing With Unpaired Training](https://ieeexplore.ieee.org/abstract/document/11478384), Yuanbo Wen, Tao Gao, Shan Liang, Dena Zhang, **Ziqi Li**, *et al.*, **TNNLS 2026**
 
 
+- [Structure-Preserving Frequency-Regularized Text-Guided Optimal Transport for Unpaired Rain Streaks and Raindrops Removal](https://ieeexplore.ieee.org/abstract/document/11340759), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **TMM 2026**, *ESI Highly Cited Paper*
 
-- [Structure-Preserving Frequency-Regularized Text-Guided Optimal Transport for Unpaired Rain Streaks and Raindrops Removal](https://ieeexplore.ieee.org/abstract/document/11340759), YYuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **TMM 2026**
-
-- [Prior-oriented Specific and Triple-view General Prompts for Multi-weather Degraded Image Restoration](https://www.sciencedirect.com/science/article/abs/pii/S0957417425046561), Yuanbo Wen, Tao Gao, Shan Liang, **Ziqi Li**, *et al.*, **ESWA 2025**
-
-- [Unpaired Iterative Prompt Learning for Real-world Image Deraining](https://www.sciencedirect.com/science/article/abs/pii/S0957417425046251), Yuanbo Wen, Tao Gao, Shan Liang, **Ziqi Li**, *et al.*, **ESWA 2025**
-
-- [Multi-perspective Prompt and Assimilated Self-modulation Transformer for Adverse Weather Removal](https://www.sciencedirect.com/science/article/abs/pii/S0957417425046329), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **ESWA 2025**
 
 - [Cross-level Interaction and Intra-level Fusion Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/11026022/), Yuanbo Wen, Tao Gao, Ting Chen, **Ziqi Li**, *et al.*, **TGRS 2025**, *ESI Highly Cited Paper*
 
 - [Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration](https://ojs.aaai.org/index.php/AAAI/article/view/32898), Yuanbo Wen, Tao Gao, Jing Zhang, **Ziqi Li**, *et al.*, **AAAI 2025**
 
-- [MSNet: Multi-scale Network for Object Detection in Remote Sensing Images](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007349), Tao Gao, Shilin Xia, Mengkun Liu, Jing Zhang, Ting Chen, **Ziqi Li**, *et al.*, **PR 2025**
 
-- [All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model](https://ieeexplore.ieee.org/abstract/document/10855564), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **TMM 2025**
+- [All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model](https://ieeexplore.ieee.org/abstract/document/10855564), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **TMM 2025**, *ESI Highly Cited Paper*
 
-- [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html), **Ziqi Li**, *et al.*, **CVPR 2025**
+- [Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html), **Ziqi Li**, Tao Gao, *et al.*, **CVPR 2025**
 
 - [A Decision-making Approach for Complex Unsignalized Intersection by Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10559897), Shanke Li, Kun Peng, Fei Hui, **Ziqi Li**, *et al.*, **TVT 2024**
 
@@ -178,8 +174,6 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 - [Multi-dimension Queried and Interacting Network for Stereo Image Deraining](https://ieeexplore.ieee.org/abstract/document/10446127), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **ICASSP 2024**
 
 - [Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/10446125), Yuanbo Wen, Tao Gao, **Ziqi Li**, *et al.*, **ICASSP 2024**
-
-- [A Self-supplementary and Revised Network for Remote Sensing Object Detection](https://ieeexplore.ieee.org/abstract/document/10382633), Tao Gao, Zixiang Liu, Guiping Wu, **Ziqi Li**, *et al.*, **GRSL 2023**
 
 - [Attention-free Global Multiscale Fusion Network for Remote Sensing Object Detection](https://ieeexplore.ieee.org/abstract/document/10382633), Tao Gao, **Ziqi Li**, *et al.*, **TGRS 2025**, *ESI Highly Cited Paper*
 
