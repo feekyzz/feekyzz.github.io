@@ -189,6 +189,8 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
   </div>
 </div>
 
+- [Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment](-), **Ziqi Li**,  Tao Gao, *et al.*, **NeurIPS 2026**
+
 - [Frequency-oriented Adaptive Real-Time Object Detector for Cluttered Traffic Scenes](https://www.nature.com/articles/s41467-026-76346-1), **Ziqi Li**,  Tao Gao, Shutao Li,*et al.*, **Nature Communication 2026**
 
 - [When Optimal Transport Meets Photo-Realistic Image Dehazing With Unpaired Training](https://ieeexplore.ieee.org/abstract/document/11478384), Yuanbo Wen, Tao Gao, Shan Liang, Dena Zhang, **Ziqi Li**, *et al.*, **TNNLS 2026**
