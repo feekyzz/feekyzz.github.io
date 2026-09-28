@@ -29,6 +29,7 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by Nature Communications.
 - *2025.11*: &nbsp;🎉🎉 I joined Robby Tan's lab at the National University of Singapore (NUS) as a visiting PhD student for 1 year.
 - *2025.09*: &nbsp;🎉🎉 One paper selected as an ESI Highly Cited Paper.
@@ -37,6 +38,44 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 - *2021.09*: &nbsp;🎉🎉 Master–PhD track at Chang’an University, advised by Tao Gao.
 # 📝 Publications 
 
+
+
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">NeurIPS 2026</div>
+      <img src="/images/main.png" alt="NeurIPS 2026" width="100%">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <p>
+      <a href="-" target="_blank">
+        Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment
+      </a>
+    </p>
+
+    <p>
+      <strong>Ziqi Li</strong>, Tao Gao, Ting Chen, Xin Zhang, Yuanbo Wen, Yipo Huang, Robby T. Tan.
+    </p>
+
+    <!-- Project link hidden on purpose -->
+    <!--
+    <p>
+      <a href="">
+        Project
+      </a>
+    </p>
+    -->
+
+<ul>
+  <li><strong>Frequency-Oriented Adaptive Detector</strong></li>
+  <li><strong>Frequency Dynamic Convolution and Adaptive Fusion</strong></li>
+  <li><strong>Lightweight and High-Performance Design</strong></li>
+</ul>
+  </div>
+</div>
 
 
 <div class="paper-box">
