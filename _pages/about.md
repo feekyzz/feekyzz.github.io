@@ -70,9 +70,9 @@ Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
     -->
 
 <ul>
-  <li><strong>Frequency-Oriented Adaptive Detector</strong></li>
-  <li><strong>Frequency Dynamic Convolution and Adaptive Fusion</strong></li>
-  <li><strong>Lightweight and High-Performance Design</strong></li>
+  <li><strong>Spiking Open-Vocabulary Object Detection</strong></li>
+  <li><strong>Text-Aligned Spiking Activation</strong></li>
+  <li><strong>Cross-Scale Text-Image Interaction</strong></li>
 </ul>
   </div>
 </div>
